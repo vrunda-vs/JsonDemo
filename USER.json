@@ -1,0 +1,15 @@
+[{
+		"name": "vrunda",
+		"address": "shantinagar",
+		"isprogrammer": true
+	},
+	{
+		"name": "komal",
+		"address": "sundarbag",
+		"isprogrammer": false
+	},
+	{
+		"name": "radhi",
+		"address": "katargam",
+		"isprogrammer": true
+	}]
